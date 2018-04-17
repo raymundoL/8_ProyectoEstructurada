@@ -1,9 +1,10 @@
-/*AUTOR:Raymundo Leon Hernandez Cruz--------------*/
-/*E-MAIL:rayadleon@gmail.com ---------------------*/
-/*Fecha de creacion :13/04/18---------------------*/
-/*Fecha de modificacion:14/04/18------------------*/
-/*Descripcion: ordenando un arreglo utilizando el
-metodo de la burbuja ------*/
+/*Autor:Raymundo Leon Hernandez Cruz              */
+/*E-mail:rayadleon@gmail.com                      */
+/*Fecha de creacion :13/04/18                     */
+/*Fecha de modificacion:14/04/18                  */
+/*Descripcion: un programa para obtener el número */
+/*             menor a partir de un arreglo       */
+/*             unidimensional de enteros          */
 
 
 /*declarando la biblioteca*/

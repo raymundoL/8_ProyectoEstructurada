@@ -1,9 +1,9 @@
-/*AUTOR:Raymundo Leon Hernandez Cruz--------------*/
-/*E-MAIL:rayadleon@gmail.com ---------------------*/
-/*Fecha de creacion :13/04/18---------------------*/
-/*Fecha de modificacion:14/04/18------------------*/
-/*Descripcion: ordenando un arreglo utilizando el
-metodo de la burbuja ------*/
+/*AUTOR:Raymundo Leon Hernandez Cruz              */
+/*E-MAIL:rayadleon@gmail.com                      */
+/*Fecha de creacion :13/04/18                     */
+/*Fecha de modificacion:14/04/18                  */
+/*Descripcion: ordenando un arreglo utilizando el */
+ /*            metodo de la burbuja               */
 
 
  

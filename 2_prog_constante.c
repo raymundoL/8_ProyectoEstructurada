@@ -1,8 +1,10 @@
-/*Autor:Raymundo Leon Hernandez Cruz              */
-/*E-mail:rayadleon@gmail.com                      */
-/*Fecha de creacion :13/04/18                     */
-/*Fecha de modificacion:14/04/18                  */
-/*Descripcion: usando macro                       */
+/*Autor:Raymundo Leon Hernandez Cruz                          */
+/*E-mail:rayadleon@gmail.com                                  */
+/*Fecha de creacion :13/04/18                                 */
+/*Fecha de modificacion:14/04/18                              */
+/*Descripcion: un programa que muestre la eclaración de       */
+/*             constantes con #define y const y que muestre   */
+/*             en pantalla los valores de las constantes.     */
 
 #include <stdio.h>
 /*DECLARACION DE CONSTANTES CON #define*/

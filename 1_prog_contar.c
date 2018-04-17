@@ -1,9 +1,9 @@
 
-/* Autor: Raymundo Leon Hernandez Cruz              */
+/*Autor: Raymundo Leon Hernandez Cruz               */
 /*E-mail: rayadleon@gmail.com                       */
-/* fecha de creacion: 11/04/2018                    */
+/*fecha de creacion: 11/04/2018                     */
 /*fecha de actualizacion:13/04/2018                 */
-/* Descripcion: programa que permita encontrar las  */
+/*Descripcion: programa que permita encontrar las   */
 /*              veces que se repite los números del */
 /*              0 - 9 en un arreglo unidimensional  */
 /*              dado.                               */
