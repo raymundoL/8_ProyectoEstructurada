@@ -7,6 +7,7 @@ metodo de la burbuja ------*/
 
 
  
+/*declarando labiblioteca*/
 
 #include <stdio.h>
 

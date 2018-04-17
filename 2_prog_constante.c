@@ -1,3 +1,9 @@
+/*Autor:Raymundo Leon Hernandez Cruz              */
+/*E-mail:rayadleon@gmail.com                      */
+/*Fecha de creacion :13/04/18                     */
+/*Fecha de modificacion:14/04/18                  */
+/*Descripcion: usando macro                       */
+
 #include <stdio.h>
 /*DECLARACION DE CONSTANTES CON #define*/
 /* no se reservan espacios en memoria*/
@@ -16,7 +22,7 @@
 /*DEFINIR CICLOS CON MACROS*/
 #define CICLOFOR(x,y) for(x=0; x<y ;x++)
 #define CICLOWHILE(i) while(i>=0)
-#define CICLODOWHILE(i) do{printf("%d ", i); i--; }  while(i>=0);
+#define CICLODOWHILE(i) do{printf("%d ", i); i++; }  while(i<=0);
 /*Declaracion de constantes con cont*/
 /*se reservan los espacios en memoria*/
 const float pi = 3.1416;
@@ -50,11 +56,11 @@ CICLOFOR(x,y)
 i=100;
 CICLOWHILE(i)
 {
-   printf("%d", I);
+   printf("%d", i);
    I++;
 }
 CICLODUWHILE(i);
-
+  printf("%d ",i);
 
 
 
