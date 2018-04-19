@@ -10,10 +10,10 @@
 /*declarando labiblioteca*/
 
 #include <stdio.h>
-
+/*Declaracion de la funcion principal*/
 int main(void)
 {
-  int array[]={2,0,2,3,10,11,4,100,9};
+  int array[]={2,0,2,3,10,11,4,100,9}; /*Declaracion del array*/
   for (int i = 0; i < 9; i++)
    {
    for ( int j = i+1; j <9; j++)
@@ -26,6 +26,7 @@ int main(void)
      }
 
    }
-   printf("%d ",array[i] );
+   printf("%d ",array[i] );	 /* Se imprimen los numeros de menor a mayor*/
   }
+  return 0;
 }
