@@ -24,4 +24,5 @@ int main(void)
     num=num/10;
   }
   printf("la convercion es %d",res );
+return 0;
 }
