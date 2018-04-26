@@ -1,7 +1,7 @@
 /*Autor:Raymundo Leon Hernandez Cruz         */
 /*E-mail: rayadleon@gmail.com                */
 /*Fecha de creacion : 24/04/2018             */
-/*Fecha de modificacion:                     */
+/*Fecha de modificacion:25/04/2018           */
 /*Descripcion: convertir de binario a decimal*/
 
 
