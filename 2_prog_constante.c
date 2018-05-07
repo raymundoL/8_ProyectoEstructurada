@@ -13,7 +13,7 @@
 #define PI 3.1416
 #define G 9.81
 #define TAMANO 10
-#define MAX 100
+#define MAXs 100
 /*implementacion de macro*/
 #define SUMA(x ,y) x+y
 #define RESTA(x, y) x-y
@@ -29,7 +29,7 @@
 /*se reservan los espacios en memoria*/
 const float pi = 3.1416;
 const float g = 9.81;
-const int tamano = 10;
+const int tamanio = 10;
 const int min = 0;
 const int max = 100;
 
@@ -37,6 +37,9 @@ int main(void)
 {
     /*imprimir constantes de  #define*/
         printf("El valor de PI :\n %f \n ",PI );
+        printf("El valor de G :\n %f \n ",G );
+        printf("El valor de TAMANIO :\n %f \n ",TAMANIO );
+        printf("El valor de MAX:\n %f \n ",MAXs );
    /*imprimir macros*/
    printf(" La suma  es :\n %d \n\n ",SUMA(3, 4) );
    printf(" La resta es :\n %d \n\n ",RESTA(3, 4) );

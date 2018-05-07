@@ -38,8 +38,31 @@ int main (void)
     {
       case EN: printf("\n Enero\n");
              break;
-      case OC: printf("\n Octubre\n");
+      case FE: printf("\n Octubre\n");
             break;
+      case MAR: printf("\n Enero\n");
+             break;
+      case AB: printf("\n Octubre\n");
+            break;
+      case MAY: printf("\n Enero\n");
+             break;
+      case JUN: printf("\n Octubre\n");
+            break;     
+      case JUL: printf("\n Enero\n");
+             break;
+      case AG: printf("\n Octubre\n");
+            break;         
+      case SE: printf("\n Enero\n");
+             break;
+      case OC: printf("\n Octubre\n");
+            break; 
+      case NO: printf("\n Enero\n");
+             break;
+      case DI: printf("\n Octubre\n");
+            break;                  
+            
+            
+                 
     }
   }
   return 0;
